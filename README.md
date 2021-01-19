@@ -8,6 +8,9 @@
         <th>Description </th>
     </tr>
    <tr>
+        <td>Identification</td>
+    </tr>
+   <tr>
         <td>hostname</td>
         <td>computer’s name</td>
     </tr>
@@ -17,7 +20,7 @@
     </tr>
     <tr>
         <td>pwd</td>
-        <td>current directory [pwd : print working directory]</td>
+        <td>current directory path</td>
     </tr>
     <tr>
         <td>cd foldername</td>
@@ -25,7 +28,7 @@
     </tr>
     <tr>
         <td>cd..</td>
-        <td>back to upper level directory</td>
+        <td>back one level directory</td>
     </tr>
     <tr>
         <td>cd /</td>
