@@ -9,7 +9,7 @@
     </tr>
                                                     <tr>
                                                         <td></td>
-                                                        <td><h3>Identification</h3></td>
+                                                        <td><h4>Identification</h4></td>
                                                     </tr>
    <tr>
         <td>hostname</td>
@@ -25,7 +25,7 @@
     </tr>
                                                     <tr>
                                                         <td></td>
-                                                        <td><h3>Folder navigation</h3></td>
+                                                        <td><h4>Folder navigation</h4></td>
                                                     </tr>
     <tr>
         <td>cd foldername</td>
@@ -49,7 +49,7 @@
     </tr>
                                                     <tr>
                                                         <td></td>
-                                                        <td><h3>Listing</h3></td>
+                                                        <td><h4>Listing</h4></td>
                                                     </tr>
     <tr>
         <td>ls</td>
@@ -77,7 +77,7 @@
     </tr>
                                                     <tr>
                                                         <td></td>
-                                                        <td><h3>File manipulation</h3></td>
+                                                        <td><h4>File manipulation</h4></td>
                                                     </tr>
     <tr>
         <td>touch filename.ext</td>
@@ -105,7 +105,7 @@
     </tr>
                                                     <tr>
                                                         <td></td>
-                                                        <td><h3>Folder manipulation</h3></td>
+                                                        <td><h4>Folder manipulation</h4></td>
                                                     </tr>
     <tr>
         <td>mkdir foldername</td>
