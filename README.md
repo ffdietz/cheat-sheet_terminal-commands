@@ -1,4 +1,4 @@
-TERMINAL COMMANDS CHEAT SHEET 
+#TERMINAL COMMANDS CHEAT SHEET 
 
 hostname	        //	computer’s name
 
