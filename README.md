@@ -99,6 +99,10 @@
         <td>cp file.ext copied.ext</td>
         <td>copy a file</td>
     </tr>
+    <tr>
+        <td>cp file.ext /folder</td>
+        <td>copy a file in specific folder</td>
+    </tr>
                                                     <tr>
                                                         <td></td>
                                                         <td><h3>Folder manipulation</h3></td>
@@ -116,7 +120,8 @@
         <td>remove complete folder files</td>
     </tr>
                                                     <tr>
-                                                        <h3>Terminal display</h3>
+                                                        <td></td>
+                                                        <td><h3>Terminal display</h3></td>
                                                     </tr>
     <tr>
         <td>clear</td>
