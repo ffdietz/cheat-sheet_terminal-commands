@@ -4,23 +4,36 @@
 
 <table>
     <tr>
-        <th>Command</th>
-        <th>Description</th>
+        <th>Command     </th>
+        <th>Description </th>
     </tr>
-
+   <tr>
+        <td>hostname</td>
+        <td>computer’s name</td>
+    </tr>
+    <tr>
+        <td>whoami</td>
+        <td>current user's name</td>
+    </tr>
     <tr>
         <td>hostname</td>
         <td>computer’s name</td>
     </tr>
+    <tr>
+        <td>pwd</td>
+        <td>current directory [pwd : print working directory]</td>
+    </tr>
+    <tr>
+        <td>cd foldername</td>
+        <td>enter to folder</td>
+    </tr>
+    <tr>
+        <td>cd..</td>
+        <td>back to upper level directory</td>
+    </tr>
 
 </table>
-
-whoami		        //	name of the current user
-
-pwd		            //	current directory (pwd = print working directory)
-
-cd subdirname		  //	enter to subdirectory
-cd..			        //	back to upper level directory
+	
 cd /			        //	navigate to the root path
 cd ~			        //	navigate to user's home path
 cd -			        //	navigate directly previous working directory
