@@ -4,12 +4,12 @@
 
 <table>
     <tr>
-        <th>Command     </th>
-        <th>Description </th>
+        <th><h2>Command     </h2></th>
+        <th><h2>Description </h2></th>
     </tr>
    <tr>
         <td></td>
-        <td>Identification</td>
+        <td><h3>Identification</h3></td>
     </tr>
    <tr>
         <td>hostname</td>
@@ -98,6 +98,10 @@
     <tr>
         <td>mv file1.ext file2.ext</td>
         <td>rename by moving in the same folder</td>
+    </tr>
+    <tr>
+        <td>clear</td>
+        <td>reset terminal screen</td>
     </tr>
 
 </table>
