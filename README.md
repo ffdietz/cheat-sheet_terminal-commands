@@ -3,7 +3,17 @@
 <p>Basic terminal commands</p>
 
 <table>
-hostname	        //	computer’s name
+    <tr>
+        <th>Command</th>
+        <th>Description</th>
+    </tr>
+
+    <tr>
+        <td>hostname</td>
+        <td>computer’s name</td>
+    </tr>
+
+</table>
 
 whoami		        //	name of the current user
 
@@ -30,4 +40,3 @@ rm filename.ext		//	remove a filename.ext
 cat filename		//	show file content
 cp file.ext copied.ext	//	copy a file
 mv file1.ext file2.ext	//	rename by moving in the same folder
-</table>
