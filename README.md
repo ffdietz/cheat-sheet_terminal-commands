@@ -2,15 +2,15 @@
 
 <p>Basic terminal commands</p>
 
-<table>
+<table style="width=30%">
     <tr>
         <th><h2>Command     </h2></th>
         <th><h2>Description </h2></th>
     </tr>
-   <tr>
-        <td></td>
-        <td><h3>Identification</h3></td>
-    </tr>
+                                                    <tr>
+                                                        <td></td>
+                                                        <td><h3>Identification</h3></td>
+                                                    </tr>
    <tr>
         <td>hostname</td>
         <td>computer’s name</td>
@@ -23,6 +23,10 @@
         <td>pwd</td>
         <td>current directory path</td>
     </tr>
+                                                    <tr>
+                                                        <td></td>
+                                                        <td><h3>Folder navigation</h3></td>
+                                                    </tr>
     <tr>
         <td>cd foldername</td>
         <td>enter to folder</td>
@@ -43,6 +47,10 @@
         <td>cd -</td>
         <td>navigate directly previous working directory</td>
     </tr>
+                                                    <tr>
+                                                        <td></td>
+                                                        <td><h3>Listing</h3></td>
+                                                    </tr>
     <tr>
         <td>ls</td>
         <td>directory files list</td>
@@ -67,38 +75,49 @@
         <td>ls -a</td>
         <td>include hidden files</td>
     </tr>
+                                                    <tr>
+                                                        <td></td>
+                                                        <td><h3>File manipulation</h3></td>
+                                                    </tr>
     <tr>
         <td>touch filename.ext</td>
-        <td>create a new filename.ext</td>
+        <td>create new filename.ext</td>
     </tr>
     <tr>
         <td>cat filename</td>
         <td>show file content</td>
     </tr>
     <tr>
-        <td>mkdir foldername</td>
-        <td>make a new folder</td>
-    </tr>
-    <tr>
-        <td>rmdir foldername</td>
-        <td>remover folder</td>
+        <td>mv file1.ext file2.ext</td>
+        <td>rename by moving in the same folder</td>
     </tr>
     <tr>
         <td>rm filename.ext</td>
         <td>remove a filename.ext</td>
     </tr>
     <tr>
-        <td>*rm -rf foldername</td>
-        <td>remove complete folder files</td>
-    </tr>
-    <tr>
         <td>cp file.ext copied.ext</td>
         <td>copy a file</td>
     </tr>
+                                                    <tr>
+                                                        <td></td>
+                                                        <td><h3>Folder manipulation</h3></td>
+                                                    </tr>
     <tr>
-        <td>mv file1.ext file2.ext</td>
-        <td>rename by moving in the same folder</td>
+        <td>mkdir foldername</td>
+        <td>create new folder</td>
     </tr>
+    <tr>
+        <td>rmdir foldername</td>
+        <td>remover folder</td>
+    </tr>
+    <tr>
+        <td>*rm -rf foldername</td>
+        <td>remove complete folder files</td>
+    </tr>
+                                                    <tr>
+                                                        <h3>Terminal display</h3>
+                                                    </tr>
     <tr>
         <td>clear</td>
         <td>reset terminal screen</td>
