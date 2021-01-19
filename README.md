@@ -1,5 +1,8 @@
-#TERMINAL COMMANDS CHEAT SHEET 
+<h1>TERMINAL COMMANDS CHEATSHEET </h1>
 
+<p>Basic terminal commands</p>
+
+<table>
 hostname	        //	computer’s name
 
 whoami		        //	name of the current user
@@ -27,3 +30,4 @@ rm filename.ext		//	remove a filename.ext
 cat filename		//	show file content
 cp file.ext copied.ext	//	copy a file
 mv file1.ext file2.ext	//	rename by moving in the same folder
+</table>
