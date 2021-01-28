@@ -1,4 +1,4 @@
-#TERMINAL COMMANDS CHEATSHEET
+# TERMINAL COMMANDS CHEATSHEET
 
 <p>Basic terminal commands</p>
 
