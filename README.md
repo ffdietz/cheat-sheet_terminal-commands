@@ -1,16 +1,10 @@
-# TERMINAL COMMANDS CHEATSHEET
+## TERMINAL COMMANDS CHEATSHEET
 
-<p>Basic terminal commands</p>
+Basic terminal commands
 
-<table style="width=30%">
-    <tr>
-        <th><h2>Command     </h2></th>
-        <th><h2>Description </h2></th>
-    </tr>
-                                                    <tr>
-                                                        <td></td>
-                                                        <td><h4>Identification</h4></td>
-                                                    </tr>
+| Command | Description |
+|---------|-------------|
+      Identification<
    <tr>
         <td>hostname</td>
         <td>computer’s name</td>
