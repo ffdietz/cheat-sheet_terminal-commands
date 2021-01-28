@@ -26,5 +26,5 @@ Basic terminal commands
 | cp file.ext /folder | copy a file in specific folder|
 | mkdir foldername  | create new folder|
 | rmdir foldername  | remover folder|
-| `*rm -rf foldername`  | remove complete folder files|
+`|*rm -rf foldername   `| remove complete folder files|
 | clear | reset terminal screen|
