@@ -4,7 +4,7 @@ Basic terminal commands
 
 | Command | Description |
 |---------|-------------|
-      Identification<
+|     Identification    |
    <tr>
         <td>hostname</td>
         <td>computer’s name</td>
