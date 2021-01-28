@@ -4,19 +4,10 @@ Basic terminal commands
 
 | Command | Description |
 |---------|-------------|
-|     Identification    |
-   <tr>
-        <td>hostname</td>
-        <td>computer’s name</td>
-    </tr>
-    <tr>
-        <td>whoami</td>
-        <td>current user's name</td>
-    </tr>
-    <tr>
-        <td>pwd</td>
-        <td>current directory path</td>
-    </tr>
+|-----Identification----|
+|hostname |computer’s name|
+|whoami|current user's name|
+|pwd|current directory path|
                                                     <tr>
                                                         <td></td>
                                                         <td><h4>Folder navigation</h4></td>
